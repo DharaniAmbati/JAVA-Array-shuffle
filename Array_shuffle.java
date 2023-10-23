@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Array_shuffle {
-
+//shuffle the array input vlues
 	public static void main(String[] args) {
 		int array[]= {1,2,3,4,5,6,7};
 		Random r=new Random();
